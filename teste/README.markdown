@@ -1,5 +1,7 @@
 # Blog Post
 
+[https://www.youtube.com/watch?v=ODl5FOMu8kI](https://www.youtube.com/watch?v=ODl5FOMu8kI)
+
 A conversation with Ray Garcia, Jonathan Gold, Evan Kleiman, Bricia Lopez, and Carlos Salgado about the evolving role of Mexican cuisine in LA as culture, art, and craft
 
 Source: [Food Icons on the Evolving Role of Mexican Cuisine in LA](http://blogs.getty.edu/iris/5-food-icons-on-the-evolving-role-of-mexican-cuisine-in-la/)
@@ -16,6 +18,15 @@ Together, critic Jonathan Gold, food scholar Evan Kleiman, and chefs Ray Garcia,
 
 In the Getty Center auditorium for the recent “There Will Be Food“ panel.
 
+    #include <iostream>
+    using namespace std;
+    
+    int main(){
+    
+    	cout << "olá mundo! "<< endl;
+    	
+    }
+
 **JG:** I’m a writer. Some people can call writers artists, some people cannot. In terms of food, there are people who approach cuisine from an art angle. Carlos Salgado is astonishing that way. His food is rooted in Mexican flavors, but there’s this level of abstraction in his food. Is it art as opposed to food? No, it’s food, but it’s being approached in a different way.
 
 **CS:** The highest point in my life is being with close family and friends, in the backyard over a fire, cooking over the course of many hours, sitting under the sky, and just filling this space with so much warmth. When I’m cooking there, I feel much more like an artist than when I worked in the highest-concept restaurants. They are like museums of food, accessible only with a certain level of literacy on the part of the diner, with a certain level of cultural experience and background.
@@ -23,6 +34,16 @@ In the Getty Center auditorium for the recent “There Will Be Food“ panel.
 ![](https://s3-us-west-2.amazonaws.com/public.notion-static.com/88676b3e-f102-4307-a850-8c1cf98f7794/edgar-castrejon-459814-unsplash.jpg)
 
 Tamale with pepitas at Taco María in Costa Mesa
+
+- [ ]  teste!
+- [ ]  teste 2
+- [ ]  teste 3
+- aff
+- 
+
+## e agora
+
+---
 
 **SS: This panel represents Mexican American cuisine in LA. What other kinds of Latin American cuisine or particular dishes from other regions do you like?**
 
@@ -38,6 +59,8 @@ Tamale with pepitas at Taco María in Costa Mesa
 
 **EK:** Tacos, because anything you eat with your hands is less intimidating than something that requires silverware. It takes you back to the permission of childhood, and that joy of just eating that is super direct. There is nothing in between you and the food.
 
+[Untitled](./Untitled-55d5148f-33d8-4c67-94ca-f1d987f88682.csv)
+
 **BL:** I think mole is a really good one. A lot of people think of it as a chocolate sauce, and yes, it has chocolate, but it also has like 18 other things. I always recommend three things: mole, the barbacoa, and the chiles rellenos at my restaurant, just because I think they are universally delicious.
 
 ![](https://s3-us-west-2.amazonaws.com/public.notion-static.com/07d3113c-a91d-4b8f-83b5-7324575b74e2/christine-siracusa-363257-unsplash.jpg)
@@ -45,5 +68,7 @@ Tamale with pepitas at Taco María in Costa Mesa
 Dishes at Broken Spanish, in Downtown LA.
 
 **CS:** I would say try more and different types of chilies, and the salsas that result from them. The range of flavors, and balance of flavors, is really exciting, and is my favorite part of Mexican food.
+
+[Tabela teste](./Tabela-teste-ab2d78a4-4aa0-4de9-a237-940809028fac.csv)
 
 **RG:** Put aside your thoughts and limitations on what Mexican food can be, and how much it can cost. Especially in LA, there is almost a cult-like following for cheap Mexican food, for the greasy taco truck. There is something people find exciting about that, but I think it’s good to stop and wonder why your taco costs a dollar. There must be a lot behind it that allows you to eat a dollar taco. It probably doesn’t include a living wage, a safe work environment, or the best quality ingredients for you and your body. We could understand where our food is coming from and be a bit more conscious in our choices.
